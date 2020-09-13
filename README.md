@@ -1,2 +1,3 @@
 # bashScripts
-My own bash scripts!
+
+This repository will be the place for my Bash scripts.
